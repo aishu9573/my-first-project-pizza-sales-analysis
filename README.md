@@ -12,7 +12,7 @@ Propose actionable insights for menu design and promotions.
 Develop strategies for improving pricing, inventory, and marketing.
 
 
-3. Dataset Description
+3.Dataset Description
    
 The dataset used in this analysis includes historical sales data across multiple outlets. Key features of the dataset include:
 Pizza types: Vegetarian, non-vegetarian, specialty pizzas.
@@ -31,11 +31,14 @@ Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, 
 5.Project Workflow:
 
 Step 1: Data Cleaning and Preprocessing
+
 Step 2: Exploratory Data Analysis (EDA)
 Identify best-selling pizza types and sizes.
 Analyze order patterns (e.g., peak hours, days).
+
 step 3: Profitability Analysis
 Calculate profit margins for different pizza types and sizes.
+
 Step 4: Insights and Recommendations
 Suggest menu enhancements and pricing adjustments.
 Propose marketing strategies for high-demand periods.
